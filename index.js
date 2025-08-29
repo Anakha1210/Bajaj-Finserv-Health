@@ -12,10 +12,10 @@ app.use(bodyParser.urlencoded({ extended: true }));
 
 // Your personal information
 const userInfo = {
-  full_name: "Anakha R Varma", // Replace with your full name in lowercase
-  dob: "12/10/2004", // Replace with your date of birth
-  email: "anakharvarma@gmail.com@example.com", // Replace with your email
-  roll_number: "22BDS0416" // Replace with your college roll number
+  full_name: "anakha r varma", 
+  dob: "12102004",
+  email: "anakharvarma@gmail.com@example.com", 
+  roll_number: "22BDS0416" 
 };
 
 // Helper function to check if a character is a letter
